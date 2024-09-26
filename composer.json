@@ -1,5 +1,5 @@
 {
-    "name": "iv-eddy/wrike-php-jmsserializer",
+    "name": "ivinteractive/wrike-php-jmsserializer",
     "description": "Response transformer adapter for Wrike PHP Library, based on JMS Serializer package.",
     "keywords": ["wrike", "wrike.com", "api", "sdk", "library", "jmsserializer", "php"],
     "type": "library",
